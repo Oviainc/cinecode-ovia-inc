@@ -1,3 +1,11 @@
+![Ovia Inc — cinecode: films made entirely with code, every frame built programmatically](docs/media/lockup.png)
+
+> **Ovia Inc fork** — We maintain this fork of [sarpstar/cinecode](https://github.com/sarpstar/cinecode): films made with code. Short films, long videos, ads, explainers and music videos — an AI coding agent writes the script, builds every frame in code (headless Chrome, three.js, ffmpeg), designs the sound, and hands over a finished MP4, running locally inside a coding-agent environment with no paid service required.
+>
+> **Story:** virtual production is one of our standing fields, and the direction that matters is the pipeline becoming code — frames as programs, renders as builds, a film as something versioned and reproducible. Cinecode pushes that furthest: the agent does not assist the edit, the agent authors the film end to end. The fork sits on the production shelf beside OpenMontage for evaluation of code-first film pipelines. Upstream credit: sarpstar. License: MIT (see LICENSE). The upstream project is documented below (Turkish primary, English README linked at its top).
+
+---
+
 <p align="center">
   <img src="docs/media/lockup.png" alt="cinecode" width="560">
 </p>
